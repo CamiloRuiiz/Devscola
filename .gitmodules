@@ -1,3 +1,6 @@
 [submodule "katas"]
 	path = katas
 	url = https://github.com/CamiloRuiiz/katas.git
+[submodule "koans"]
+	path = koans
+	url = https://github.com/CamiloRuiiz/RubyKOANS.git
