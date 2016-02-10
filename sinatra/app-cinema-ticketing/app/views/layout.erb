@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf8">
+    <title><%= @site_title %></title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <img src="/img/logo.png" width="20%" alt="logo Cinelandia">
+        <h2>The best movies</h2>
+      </hgroup>
+    </header>
+    
+    <div id="container">
+      <%= yield %>
+    </div>
+    <footer>
+      <h3>Movie of the week: <%= FILM_OF_THE_WEEK %></h3>
+      <p>Created by <a href="//github.com/Camiloruiiz">Camilo Ruiz</a></p>
+    </footer>
+  </body>
+</html>
+  
+  
