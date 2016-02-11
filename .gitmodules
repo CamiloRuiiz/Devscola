@@ -1,0 +1,4 @@
+[submodule "katas"]
+	path = katas
+	url = https://github.com/OscarCamiloRuiz/katas.git
+	branch = master
