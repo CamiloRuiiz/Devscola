@@ -6,3 +6,7 @@
 	path = ruby-koans
 	url = git@github.com:OscarCamiloRuiz/ruby-koans.git
 	branch = master
+[submodule "sinatra/app-cinema-ticketing"]
+	path = sinatra/app-cinema-ticketing
+	url = git@github.com:Camiloruiiz/app-cinema-ticketing.git
+	branch = master
