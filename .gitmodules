@@ -2,3 +2,7 @@
 	path = katas
 	url = https://github.com/OscarCamiloRuiz/katas.git
 	branch = master
+[submodule "ruby-koans"]
+	path = ruby-koans
+	url = git@github.com:OscarCamiloRuiz/ruby-koans.git
+	branch = master
